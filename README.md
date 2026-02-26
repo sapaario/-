@@ -1,1 +1,5 @@
-
+<a href="https://sites.google.com/view/sapario20260227/%EB%A7%9D%ED%95%9C-%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8-%EB%90%98%EC%82%B4%EB%A6%AC%EA%B8%B0">
+  <img src="https://raw.githubusercontent.com/sapaario/-/main/%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8%20%EB%A7%81%ED%81%AC%20%EC%9D%B4%EB%AF%B8%EC%A7%80.png" 
+       alt="망한 아카데미 되살리기 배너" 
+       style="width: 100%; max-width: 800px; cursor: pointer;">
+</a>
